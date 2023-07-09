@@ -3,7 +3,11 @@
 
 .idea/
 
+#build
+target/
+
 # Log file
+logs/
 *.log
 
 # BlueJ files
