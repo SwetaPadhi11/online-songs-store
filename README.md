@@ -1,4 +1,8 @@
-online-songs-store
+Module Name: online-songs-store
+Functions in the module:
+  a. Get initial song list and capacity
+  b. Play the next song
+  c. Verify the Recently played songs playlist
 
 Project description:
 --------------------
@@ -8,8 +12,11 @@ It should also be able to fetch recently played songs based on the user and elim
 This project has been created in the command line using the below steps. This is a cucumber maven project.
 It fetches the user, song and playlist data from the feature file and runs the test using the step definition class.
 
-Please note that this project runs for a single user as provided in the feature file.
-To run scenarios for other users,the feature file needs to be modified accordingly.
+git@github.com:SwetaPadhi11/online-songs-store.git 
+
+
+
+
 
 Test used in the project:
 
