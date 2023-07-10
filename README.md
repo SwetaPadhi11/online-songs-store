@@ -12,10 +12,6 @@ It should also be able to fetch recently played songs based on the user and elim
 This project has been created in the command line using the below steps. This is a cucumber maven project.
 It fetches the user, song and playlist data from the feature file and runs the test using the step definition class.
 
-git@github.com:SwetaPadhi11/online-songs-store.git 
-
-
-
 
 
 Test used in the project:
